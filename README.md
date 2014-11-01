@@ -26,7 +26,7 @@ EXE: https://drive.google.com/file/d/0B0mK4iRZOQuXbVVQLWtJUnB5WEE/view?usp=shari
   
     SubtitleAdjuster.exe -f 50 -r 23.976 -i C:/test.ass
     
-  Output:
+  Example Output:
       
     C:/new.test.ass    (+50 frames)
         
