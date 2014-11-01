@@ -1,5 +1,6 @@
 import string
 import re
+import os
 from math import floor
 import _winreg
 import sys
@@ -84,7 +85,7 @@ else:
     offset = float(frame)/rate
  
 f = open(inputfile, 'r')
-t = open("new."+inputfile ,'w')
+t = open(os.path.dirname(inputfile)+"new."+filename,'w')
 for line in f.readlines():
     ans = processAssLine(line,offset)
     t.write(ans)
