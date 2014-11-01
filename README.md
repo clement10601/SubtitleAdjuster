@@ -20,15 +20,15 @@ EXE: https://drive.google.com/file/d/0B0mK4iRZOQuXbVVQLWtJUnB5WEE/view?usp=shari
     
     -f        {int}[frame]               
     
-    -r  	    {float}[frame rate]     
+    -r        {float}[frame rate]     
     
   Usage:
   
     SubtitleAdjuster.exe -f 50 -r 23.976 -i C:/test.ass
     
-      Output:
+  Output:
       
-        C:/new.test.ass    (+50 frames)
+    C:/new.test.ass    (+50 frames)
         
 
 by DHR動研 CL
