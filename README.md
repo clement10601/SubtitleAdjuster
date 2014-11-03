@@ -3,7 +3,7 @@ SubtitleAdjuster
 
 Python27
 
-Adjust Subtitle's time line with specific Frame numbers &amp; Frame rate
+Adjust Subtitle's timeline with specific Frame numbers &amp; Frame rate
 
 Ver 1.0.0
 
